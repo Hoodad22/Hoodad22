@@ -1,2 +1,2 @@
 # Start
-Config Files for my GitHub Profile.
+Config files for my GitHub Profile.
